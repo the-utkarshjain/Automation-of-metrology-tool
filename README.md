@@ -7,4 +7,6 @@ the data spit by the metrology equipment and then parsing it to extract necessar
 importance in later stages of fabrication where it is used for process control and
 tool health monitoring.
 
+<b>Technology:</b> .NET framework
+
 <b>Note:</b> Actual files cannot be shared due to security reasons but some of the implementation can be found at the end of internship report.
